@@ -1,13 +1,19 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  align = "center" src="https://ih1.redbubble.net/image.683518800.8491/st,small,507x507-pad,600x600,f8f8f8.jpg" width="400" height="200" />&nbsp;
+
+<p align="center">
+  <img width="460" height="300" src="https://ih1.redbubble.net/image.683518800.8491/st,small,507x507-pad,600x600,f8f8f8.jpg">
+</p>
 
 
 # Flutter Login UI template  - Use this UI template for you app's user login and authentication purpose.
+## Use this attractive template to quickly build up the  UI  for your app(particularly useful in hackathons) !
 
   ---
 
 
-#  :camera: Screen-shots:
-&nbsp;<img  align = "center" src="https://github.com/logicinfinite/Flutter_Login_page_UI_template/blob/master/app.jpeg" width="400" height="800" />&nbsp;
+#  :camera: Screen-shot:
+<p align="center">
+  <img width="460" height="800" src="https://github.com/logicinfinite/Flutter_Login_page_UI_template/blob/master/app.jpeg">
+</p>
 
  ---
  
@@ -68,3 +74,8 @@ This project is mantained by:
 4. Run the linter (ruby lint.rb').
 5. Push your branch (git push origin my-new-feature)
 6. Create a new Pull Request
+
+ ---
+
+## Made with  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>  
+  

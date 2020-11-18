@@ -1,16 +1,10 @@
-# ui_tut
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://ih1.redbubble.net/image.683518800.8491/st,small,507x507-pad,600x600,f8f8f8.jpg" width="400" height="200" />&nbsp;
+# Flutter Login UI template .
 
-A new Flutter project.
+## Use this UI template for you app's user login and authentication purpose.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#  :camera: Screen-shots:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

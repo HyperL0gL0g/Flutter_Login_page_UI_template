@@ -4,8 +4,8 @@
 </p>
 
 
-# Flutter Login UI template  - Use this UI template for you app's user login and authentication purpose.
-## Use this attractive template to quickly build up the  UI  for your app(particularly useful in hackathons) !
+# Flutter Login UI template  - Use this UI template for your app's user login and authentication purpose.
+## Use this attractive template to quickly build up the UI for your app(particularly useful in hackathons) !
 
   ---
 
